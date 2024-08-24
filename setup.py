@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Chest-Cancer-Classification-Project"
 AUTHOR_USER_NAME = "BouazizOmar"
-SRC_REPO = "CNN Classifier"
+SRC_REPO = "CNNClassifier"
 AUTHOR_EMAIL = "bouazizomar76@gmail.com"
 
 
