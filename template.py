@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
 
 
-project_name = "CNN Classifier"
+project_name = "CNNClassifier"
 
 # list of files will be created
 list_of_files = [
@@ -19,6 +19,7 @@ list_of_files = [
     f"src/{project_name}/config/__init__.py",
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/pipeline/__init__.py",
+    f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "dvc.yaml",
@@ -26,7 +27,9 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    "templates/index.html",
+    "templates/index.html"
+
+
 ]
 
 
