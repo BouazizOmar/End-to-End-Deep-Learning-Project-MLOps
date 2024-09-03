@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Portable/OneDrive/Desktop/mlops/End-to-End-Deep-Learning-Project-MLOps/mlruns/0/a2cce6dad94c4e2faf1df6df06030183/artifacts
+end_time: 1725218691164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2cce6dad94c4e2faf1df6df06030183
+run_name: bald-ray-949
+run_uuid: a2cce6dad94c4e2faf1df6df06030183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725218679518
+status: 3
+tags: []
+user_id: Portable

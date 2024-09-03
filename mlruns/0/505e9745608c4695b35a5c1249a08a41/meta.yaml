@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Portable/OneDrive/Desktop/mlops/End-to-End-Deep-Learning-Project-MLOps/mlruns/0/505e9745608c4695b35a5c1249a08a41/artifacts
+end_time: 1725216359227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 505e9745608c4695b35a5c1249a08a41
+run_name: adaptable-trout-240
+run_uuid: 505e9745608c4695b35a5c1249a08a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725216347670
+status: 3
+tags: []
+user_id: Portable

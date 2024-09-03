@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Portable/OneDrive/Desktop/mlops/End-to-End-Deep-Learning-Project-MLOps/mlruns/0/3c007048b9f7485e9f152d37ba18c769/artifacts
+end_time: 1725215558873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c007048b9f7485e9f152d37ba18c769
+run_name: bald-stag-383
+run_uuid: 3c007048b9f7485e9f152d37ba18c769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725215544953
+status: 3
+tags: []
+user_id: Portable

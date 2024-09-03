@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Portable/OneDrive/Desktop/mlops/End-to-End-Deep-Learning-Project-MLOps/mlruns/0/ac01bee4ba7948e9ab78e2e0fbc8d14d/artifacts
+end_time: 1725218877072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac01bee4ba7948e9ab78e2e0fbc8d14d
+run_name: resilient-stoat-399
+run_uuid: ac01bee4ba7948e9ab78e2e0fbc8d14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725218865529
+status: 3
+tags: []
+user_id: Portable
