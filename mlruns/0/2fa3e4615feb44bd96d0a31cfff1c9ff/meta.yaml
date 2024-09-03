@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Portable/OneDrive/Desktop/mlops/End-to-End-Deep-Learning-Project-MLOps/mlruns/0/2fa3e4615feb44bd96d0a31cfff1c9ff/artifacts
+end_time: 1725407813335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fa3e4615feb44bd96d0a31cfff1c9ff
+run_name: rumbling-crane-660
+run_uuid: 2fa3e4615feb44bd96d0a31cfff1c9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725407795653
+status: 3
+tags: []
+user_id: Portable
