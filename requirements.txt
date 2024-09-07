@@ -17,4 +17,7 @@ scipy
 Flask
 Flask-cors
 patool
+django
+djangorestframework
+django-cors-headers
 -e .
